@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc7076cc-ca8d-4794-8050-9685740ca3a1" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/raboProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/controller/ResourcesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/controller/TradesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/model/Trade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/repository/TradeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/java/com/hackerrank/stocktrade/repository/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/test/java/com/hackerrank/stocktrade/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/test/java/com/hackerrank/stocktrade/requests/NoResourcesTradesControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/test/java/com/hackerrank/stocktrade/requests/ResourcesControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/src/test/java/com/hackerrank/stocktrade/requests/TradesControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raboProject/stocktrade.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i6yCoQci4y0vIVOcuiclQu74ci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stocktrade" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hackerrank.stocktrade.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc7076cc-ca8d-4794-8050-9685740ca3a1" name="Default Changelist" comment="" />
+      <created>1601242215367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601242215367</updated>
+      <workItem from="1601242219714" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1601242973864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601242973864" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601242262603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601242262603" />
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1601242891906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601242891906" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1601242954863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601242954863" />
+    <state x="558" y="261" key="Github.ShareDialog" timestamp="1601242657772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="558" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601242657772" />
+    <state x="353" y="68" key="Github.UntrackedFilesDialog" timestamp="1601242718174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601242718174" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1601242606429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601242606429" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601242776630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601242776630" />
+  </component>
+</project>
